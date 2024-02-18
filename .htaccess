@@ -1,0 +1,6 @@
+<IfModule mod_headers.c>
+    Header set Acess-Control-Allow-Origin "*"
+    Header set Acess-Control-Allow-Methods "GET,PUT,POST,DELETE"
+    Header set Acess-Control-Allow-Headers "Content-type , Authorization"
+
+</IfModule>
