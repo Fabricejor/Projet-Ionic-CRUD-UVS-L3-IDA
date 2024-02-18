@@ -1,0 +1,3 @@
+[submodule "crud-php"]
+	path = crud-php
+	url = https://github.com/Fabricejor/ionic-crud-sqlite
